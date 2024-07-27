@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eliramirez527/curso-react-intro.git/static/css/main.b70d3271.css",
+    "main.js": "/eliramirez527/curso-react-intro.git/static/js/main.37fa1740.js",
+    "index.html": "/eliramirez527/curso-react-intro.git/index.html",
+    "static/media/delete.svg": "/eliramirez527/curso-react-intro.git/static/media/delete.84e4a932c97ebd0c6c78dd05068de6fb.svg",
+    "static/media/check.svg": "/eliramirez527/curso-react-intro.git/static/media/check.869a5e77f19ab8e1fd324a52c184d1b0.svg",
+    "main.b70d3271.css.map": "/eliramirez527/curso-react-intro.git/static/css/main.b70d3271.css.map",
+    "main.37fa1740.js.map": "/eliramirez527/curso-react-intro.git/static/js/main.37fa1740.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b70d3271.css",
+    "static/js/main.37fa1740.js"
+  ]
+}
